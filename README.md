@@ -64,6 +64,13 @@ npm run dev
 npm run build
 ```
 
+
+## 📸 Preview
+
+![Sushi Website Preview](https://freeimage.host/i/3IlhGdg)
+
+
+
 ## 📝 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
