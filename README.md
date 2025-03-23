@@ -45,7 +45,7 @@ sushi-web/
 
 1. Clone the repository:
 ```bash
-git clone [repository-url]
+git clone https://github.com/the-mihir/Sushi-website.git
 cd sushi-web
 ```
 
