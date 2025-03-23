@@ -67,7 +67,7 @@ npm run build
 
 ## 📸 Preview
 
-![Sushi Website Preview](https://freeimage.host/i/3IlhGdg)
+![Sushi Website Preview](https://freeimage.host/i/screencapture-localhost-5173-2025-03-24-04-17-07.3IlhGdg)
 
 
 
